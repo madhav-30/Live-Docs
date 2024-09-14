@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [https://live-docs30.vercel.app/](Click_here) with your browser to see the result.
+Open [Click Me]((https://live-docs30.vercel.app/)) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
